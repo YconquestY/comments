@@ -1,1 +1,1 @@
-This repository hosts comments at [my personal website](https://yconquesty.github.io).
+This repository hosts comment service for [my blog](https://yconquesty.github.io).
